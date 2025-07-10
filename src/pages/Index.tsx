@@ -14,7 +14,7 @@ const Index = () => {
               <div className="relative">
                 <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-electric-yellow shadow-2xl">
                   <img
-                    src="/img/2ceb5983-a18c-4659-ada0-0460bde55bb1.jpg"
+                    src="https://v3.fal.media/files/rabbit/o3ixXGziWGH7NeZT0CmoN_output.png"
                     alt="Пряжников Александр Иванович"
                     className="w-full h-full object-cover"
                   />
